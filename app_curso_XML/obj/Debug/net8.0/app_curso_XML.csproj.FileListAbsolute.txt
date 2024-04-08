@@ -1,0 +1,14 @@
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.AssemblyInfoInputs.cache
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.AssemblyInfo.cs
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\bin\Debug\net8.0\app_curso_XML.exe
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\bin\Debug\net8.0\app_curso_XML.deps.json
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\bin\Debug\net8.0\app_curso_XML.runtimeconfig.json
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\bin\Debug\net8.0\app_curso_XML.dll
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\bin\Debug\net8.0\app_curso_XML.pdb
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.dll
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\refint\app_curso_XML.dll
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.pdb
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\app_curso_XML.genruntimeconfig.cache
+C:\Users\adrie\source\repos\app_curso_XML\app_curso_XML\obj\Debug\net8.0\ref\app_curso_XML.dll
